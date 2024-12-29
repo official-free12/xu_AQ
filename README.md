@@ -1,0 +1,6 @@
+# 2024虚拟BI理财项目金融投资BTC+USDT
+
+代码仅供学习研究，禁止用于非法用途！！！系统完全自主开发，帮您打消担心买到盗版的顾虑<br>=================================================================<br>演示地址：<br>前端：<br>example.com/<br>账号：15806548888 密码：123456<br>后端：<br>联系客服QQ：403621775<br>=================================================================<br>适用行业：项目投资、影视投资、理财投资、充电宝项目、外汇、基金、国际大宗商品、USDT货币投资等。编程语言：前端UNIAPP、后端thinkPHP、数据库MySql。=================================================================功能卖点1、手机注册，后台可添加用户2、根据法规需求，仅支持三级分销机制，用户邀请朋友能获得对应百分比奖励3、支持在线客服，后台需设置客服链接4、充值方式，USDT5、支持多种投资方式，增大客户粘性6、在线签到，留住客户7、对接短信，可发送国际或国内短信<br>8、项目支持K线，更加真实有效<br>9、积分商城，签到积分可兑换对应商品<br>=================================================================<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/4U3OU" style="color: red;">https://mega-file.org/4U3OU</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
